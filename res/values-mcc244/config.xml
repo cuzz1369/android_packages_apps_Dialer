@@ -18,9 +18,5 @@
 <!--Allow recording for country: Finland-->
 <!--Legal precedent source: http://www.tietosuoja.fi/fi/index/ratkaisut/puheluidennauhoittaminen.html -->
 <resources>
-<<<<<<< HEAD
-
-=======
     <bool name="call_recording_enabled">true</bool>
->>>>>>> be8d045... Enable Call recording.
 </resources>
